@@ -17,7 +17,7 @@
 
 ### Model Performance
 
-![Model Results](images/model-performance.png)
+![Model Results](images/Model_Performance.png)
 *Training and test set: Actual vs Predicted discount % with R² values*
 
 - **Training Set R²:** 0.4706
