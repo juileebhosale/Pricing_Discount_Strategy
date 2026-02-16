@@ -35,4 +35,4 @@ This project is for portfolio demonstration purposes.
 
 ---
 
-**Note:** Company M is anonymized for confidentiality. All analysis and recommendations are based on simulated enterprise IAM product data.
+**Note:** Company M is anonymized for confidentiality. Actual data withheld to maintain confidentiality. All analysis and recommendations are based on simulated enterprise IAM product data.
